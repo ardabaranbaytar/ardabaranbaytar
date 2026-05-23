@@ -49,12 +49,12 @@ I am an **Academic Researcher** and **Quantitative Developer** deeply passionate
 ### 📈 GitHub Ecosystem & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardabaranbaytar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Arda's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabaranbaytar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ardabaranbaytar&show_icons=true&theme=tokyonight" alt="Arda's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabaranbaytar&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardabaranbaytar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardabaranbaytar&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
