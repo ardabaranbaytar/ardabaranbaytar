@@ -12,17 +12,13 @@ With a background in **Statistics** and **Computer Programming**, I work on proj
 
 ## Core Focus Areas
 
-- **Quantitative Research**  
-  Statistical arbitrage, pairs trading, cointegration analysis, mean reversion, rolling Z-score models.
+- **Quantitative Research** Statistical arbitrage, pairs trading, cointegration analysis, mean reversion, rolling Z-score models.
 
-- **Algorithmic Trading Infrastructure**  
-  Backtesting frameworks, simulated execution engines, transaction cost modeling, portfolio risk controls.
+- **Algorithmic Trading Infrastructure** Backtesting frameworks, simulated execution engines, transaction cost modeling, portfolio risk controls.
 
-- **Financial Data Engineering**  
-  PostgreSQL-based data storage, financial time-series pipelines, automated market data ingestion.
+- **Financial Data Engineering** PostgreSQL-based data storage, financial time-series pipelines, automated market data ingestion.
 
-- **Applied Financial Analytics**  
-  Corporate finance metrics, financial statement analysis, performance evaluation, risk-adjusted return metrics.
+- **Applied Financial Analytics** Corporate finance metrics, financial statement analysis, performance evaluation, risk-adjusted return metrics.
 
 ---
 
@@ -68,7 +64,6 @@ With a background in **Statistics** and **Computer Programming**, I work on proj
 A modular quantitative research system for detecting potential statistical arbitrage opportunities between cointegrated stock pairs. The project includes rolling Z-score signal generation, simulated long/short position tracking, PostgreSQL-backed market data storage, rule-based risk controls, and a FastAPI dashboard for monitoring signals and positions.
 
 **Main components:**
-
 - Engle-Granger cointegration screening
 - Rolling Z-score signal logic
 - Simulated position management
@@ -88,13 +83,11 @@ A modular quantitative research system for detecting potential statistical arbit
 A modular backtesting framework designed to compare different trading strategies on historical market data. The framework includes strategy signal generation, transaction cost modeling, performance metrics, equity curve visualization, drawdown analysis, and reusable reporting outputs.
 
 **Strategies implemented:**
-
 - Buy & Hold benchmark
 - 60-Day Momentum
 - Mean Reversion
 
 **Metrics included:**
-
 - Total return
 - Annualized return
 - Volatility
@@ -107,7 +100,6 @@ A modular backtesting framework designed to compare different trading strategies
 ## Current Research Direction
 
 I am currently developing projects around:
-
 - Statistical arbitrage and pairs trading
 - Multi-asset portfolio backtesting
 - Risk-aware trading system design
@@ -121,12 +113,12 @@ My long-term goal is to build a strong portfolio at the intersection of **quanti
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardabaranbaytar&show_icons=true&theme=tokyonight" alt="Arda's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabaranbaytar&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.com/api?username=ardabaranbaytar&show_icons=true&theme=tokyonight&hide_border=true" alt="Arda's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabaranbaytar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardabaranbaytar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardabaranbaytar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
