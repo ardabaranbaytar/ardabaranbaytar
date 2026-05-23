@@ -109,20 +109,3 @@ I am currently developing projects around:
 My long-term goal is to build a strong portfolio at the intersection of **quantitative research, financial engineering, and software development**.
 
 ---
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.com/api?username=ardabaranbaytar&show_icons=true&theme=tokyonight&hide_border=true" alt="Arda's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabaranbaytar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardabaranbaytar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <sub><i>"In God we trust, all others must bring data." — W. Edwards Deming</i></sub>
-</p>
