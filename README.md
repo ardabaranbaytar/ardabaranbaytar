@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ardabaranbaytar&color=2a8a7a&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-I am an **Academic Researcher** and **Quantitative Developer** deeply passionate about statistical analysis, programmatic trading infrastructure, and corporate finance metrics. With a robust academic background in Statistics and Computer Programming, I bridge the gap between mathematical rigor and low-latency financial software.
+I am an **Academic Researcher** and **Quantitative Developer** deeply passionate about statistical analysis, algorithmic trading infrastructure, and corporate finance metrics. With a background split between Statistics and Computer Programming, I focus on bridging the gap between mathematical data models and clean, production-ready financial software.
 
 ---
 
@@ -42,7 +42,7 @@ I am an **Academic Researcher** and **Quantitative Developer** deeply passionate
 
 ### ⬡ Featured Systems
 
-* **[Alpha Quant Bot](https://github.com/ardabaranbaytar/alpha-quant-bot)**: A modular statistical arbitrage platform. It runs automated cointegration scanning on the NASDAQ-100 universe, computes real-time rolling spread dynamics, filters entry conditions using an internal fundamental corporate balance sheet scorer, and tracks automated position management metrics via a web interface.
+* **[Alpha Quant Bot](https://github.com/ardabaranbaytar/alpha-quant-bot)**: A modular statistical arbitrage platform. It runs automated cointegration scanning on the NASDAQ-100 universe, computes real-time rolling spread dynamics, filters entry conditions using an internal fundamental corporate balance sheet scorer, and tracks automated position management metrics via a responsive web interface.
 
 ---
 
@@ -56,15 +56,6 @@ I am an **Academic Researcher** and **Quantitative Developer** deeply passionate
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardabaranbaytar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
-
----
-
-### 🎯 Active Milestones & Global Horizons
-
-* 🏫 Finishing final graduate-level modules in **Statistics**.
-* 📈 Preparing for global macro-credentials (**CFA Level 1** & **Financial Licensing**).
-* 🇩🇪 Expanding target competencies in **German (B1 target)** for Frankfurt academic frameworks.
-* 🗽 Long-term vector calibrated towards doctoral studies in the United States and quantitative roles on Wall Street.
 
 ---
 
