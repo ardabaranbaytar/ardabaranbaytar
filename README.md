@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hey there, I'm Arda Baran Baytar! 👋
 
-<!--
-**ardabaranbaytar/ardabaranbaytar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ardabaranbaytar&color=2a8a7a&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+I am an **Academic Researcher** and **Quantitative Developer** deeply passionate about statistical analysis, programmatic trading infrastructure, and corporate finance metrics. With a robust academic background in Statistics and Computer Programming, I bridge the gap between mathematical rigor and low-latency financial software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My Core Specializations
+
+* **Quantitative Research**: Statistical Arbitrage, Cointegration Models (Engle-Granger), Rolling Z-Score Analytics.
+* **Data Engineering**: Financial data warehouse design, masked web-scraping, dynamic pricing pipelines.
+* **Software Architecture**: Asynchronous microservices, secure cryptographic auth layers, background worker threads.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js_(WebGL)-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+
+---
+
+### ⬡ Featured Systems
+
+* **[Alpha Quant Bot](https://github.com/ardabaranbaytar/alpha-quant-bot)**: A modular statistical arbitrage platform. It runs automated cointegration scanning on the NASDAQ-100 universe, computes real-time rolling spread dynamics, filters entry conditions using an internal fundamental corporate balance sheet scorer, and tracks automated position management metrics via a web interface.
+
+---
+
+### 📈 GitHub Ecosystem & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardabaranbaytar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Arda's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabaranbaytar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardabaranbaytar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+### 🎯 Active Milestones & Global Horizons
+
+* 🏫 Finishing final graduate-level modules in **Statistics**.
+* 📈 Preparing for global macro-credentials (**CFA Level 1** & **Financial Licensing**).
+* 🇩🇪 Expanding target competencies in **German (B1 target)** for Frankfurt academic frameworks.
+* 🗽 Long-term vector calibrated towards doctoral studies in the United States and quantitative roles on Wall Street.
+
+---
+
+<p align="center">
+  <font size="2"><i>"In God we trust, all others must bring data." — W. Edwards Deming</i></font>
+</p>
