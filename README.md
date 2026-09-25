@@ -4,7 +4,7 @@ I am a **Statistics graduate** with an associate degree in **Computer Programmin
 
 My projects span finance, operations research and banking analytics, and they share one habit: testing results honestly — out-of-sample validation, realistic assumptions, and clearly reporting what did *not* work.
 
-🌐 [ardabaranbaytar.com](https://ardabaranbaytar.com) · [LinkedIn](https://www.linkedin.com/in/arda-baran-baytar-4b682a254/) · [Kaggle](https://www.kaggle.com/ardabaranbaytar) · [Medium](https://medium.com/@ardabaran119)
+[ardabaranbaytar.com](https://ardabaranbaytar.com) · [LinkedIn](https://www.linkedin.com/in/arda-baran-baytar-4b682a254/) · [Kaggle](https://www.kaggle.com/ardabaranbaytar) · [Medium](https://medium.com/@ardabaran119)
 
 ## Featured Projects
 
