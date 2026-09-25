@@ -8,7 +8,7 @@ My projects span finance, operations research and banking analytics, and they sh
 
 ## Featured Projects
 
-### [quant-lab](https://github.com/ardabaranbaytar/quant-lab) · [live demo](https://quant.ardabaranbaytar.com)
+### [quant-lab](https://github.com/ardabaranbaytar/quant-lab) 
 
 Portfolio-level backtesting, factor research and a statistical-arbitrage paper-trading bot in one codebase, from research notebook to deployed app.
 
@@ -36,7 +36,7 @@ Reproduced and extended a graduate study on banking customer data across **Pytho
 
 `Python` `R` `KNIME` `Orange` `Machine Learning`
 
-### [StochOpt-MDP](https://github.com/ardabaranbaytar/StochOpt-MDP) · [live demo](https://stochopt.ardabaranbaytar.com)
+### [StochOpt-MDP](https://github.com/ardabaranbaytar/StochOpt-MDP) 
 
 Optimal (s, S) inventory control formulated as a Markov Decision Process. The Bellman equation is solved by vectorized value iteration, and the resulting policy is benchmarked against base-stock and EOQ heuristics in a SimPy Monte Carlo simulation. Includes demand fitting (Poisson / Negative Binomial by AIC), a typed REST API, a React dashboard, and CSV/PDF reports.
 
