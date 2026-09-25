@@ -1,6 +1,8 @@
 # Arda Baran Baytar 👋
 
-I am a **Statistics graduate** with an associate degree in **Computer Programming**, working toward a career in **quantitative research**. I build research tools end to end — from statistical tests and backtests to APIs, dashboards and deployed services — and I care most about results that survive honest validation: point-in-time data, out-of-sample tests and realistic costs.
+I am a **Statistics graduate** with an associate degree in **Computer Programming**, starting my career in **data science and analytics**. I like taking a problem all the way from raw data to a working product: cleaning and exploring data, building and validating statistical and machine-learning models, and delivering the results as reports, dashboards, APIs and deployed applications.
+
+My projects span finance, operations research and banking analytics, and they share one habit: testing results honestly — out-of-sample validation, realistic assumptions, and clearly reporting what did *not* work.
 
 🌐 [ardabaranbaytar.com](https://ardabaranbaytar.com) · 💼 [LinkedIn](https://www.linkedin.com/in/arda-baran-baytar-4b682a254/) · 📊 [Kaggle](https://www.kaggle.com/ardabaranbaytar) · ✍️ [Medium](https://medium.com/@ardabaran119)
 
@@ -28,6 +30,12 @@ The project also documents negative results: classic pairs trading and Avellaned
 
 `Python` `pandas` `statsmodels` `FastAPI` `MySQL` `React` `TypeScript` `GitHub Actions`
 
+### [Banking ML: Cross-Platform Replication](https://github.com/ardabaranbaytar/banking-ml-cross-platform-replication) — *BSc thesis*
+
+Reproduced and extended a graduate study on banking customer data across **Python, R, KNIME and Orange**: loan-repayment prediction, repayment-duration and credit-amount estimation, and customer segmentation with classification, regression and clustering methods.
+
+`Python` `R` `KNIME` `Orange` `Machine Learning`
+
 ### [StochOpt-MDP](https://github.com/ardabaranbaytar/StochOpt-MDP) · [live demo](https://stochopt.ardabaranbaytar.com)
 
 Optimal (s, S) inventory control formulated as a Markov Decision Process. The Bellman equation is solved by vectorized value iteration, and the resulting policy is benchmarked against base-stock and EOQ heuristics in a SimPy Monte Carlo simulation. Includes demand fitting (Poisson / Negative Binomial by AIC), a typed REST API, a React dashboard, and CSV/PDF reports.
@@ -40,10 +48,6 @@ Statistical-arbitrage engine: Engle–Granger cointegration screening, a causal 
 
 `Python` `statsmodels` `SQLAlchemy` `FastAPI` `MySQL`
 
-### [Banking ML: Cross-Platform Replication](https://github.com/ardabaranbaytar/banking-ml-cross-platform-replication) — *BSc thesis*
-
-Reproduced and extended a graduate study on banking customer data across **Python, R, KNIME and Orange**: loan-repayment prediction, repayment-duration and credit-amount estimation, and customer segmentation with classification, regression and clustering methods.
-
 ### [JPMorgan Financial Performance Dashboard](https://github.com/ardabaranbaytar/jpmorgan-financial-performance-dashboard)
 
 Power BI dashboard analyzing JPMorgan's financial performance and risk indicators using FDIC data.
@@ -51,8 +55,8 @@ Power BI dashboard analyzing JPMorgan's financial performance and risk indicator
 ## Technical Skills
 
 * **Programming:** Python, SQL, R, TypeScript, Java
-* **Statistics & Data:** pandas, NumPy, SciPy, statsmodels, scikit-learn, time-series analysis, Monte Carlo simulation
-* **Quantitative Finance:** backtesting, cointegration & pairs trading, factor research, walk-forward validation, risk metrics
+* **Statistics & Machine Learning:** pandas, NumPy, SciPy, statsmodels, scikit-learn, classification, regression, clustering, time-series analysis, Monte Carlo simulation
+* **Domain Knowledge:** quantitative finance (backtesting, factor research, risk metrics), operations research (MDPs, simulation), banking analytics
 * **Backend & Databases:** FastAPI, SQLAlchemy, MySQL, PostgreSQL
 * **Frontend & Reporting:** React, Tailwind CSS, Power BI, Excel
 * **Infrastructure:** Git, GitHub Actions, Docker, Linux (Ubuntu), systemd, Caddy
