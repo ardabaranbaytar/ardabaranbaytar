@@ -1,10 +1,10 @@
-# Arda Baran Baytar 👋
+# Arda Baran Baytar 
 
 I am a **Statistics graduate** with an associate degree in **Computer Programming**, starting my career in **data science and analytics**. I like taking a problem all the way from raw data to a working product: cleaning and exploring data, building and validating statistical and machine-learning models, and delivering the results as reports, dashboards, APIs and deployed applications.
 
 My projects span finance, operations research and banking analytics, and they share one habit: testing results honestly — out-of-sample validation, realistic assumptions, and clearly reporting what did *not* work.
 
-🌐 [ardabaranbaytar.com](https://ardabaranbaytar.com) · 💼 [LinkedIn](https://www.linkedin.com/in/arda-baran-baytar-4b682a254/) · 📊 [Kaggle](https://www.kaggle.com/ardabaranbaytar) · ✍️ [Medium](https://medium.com/@ardabaran119)
+🌐 [ardabaranbaytar.com](https://ardabaranbaytar.com) · [LinkedIn](https://www.linkedin.com/in/arda-baran-baytar-4b682a254/) · [Kaggle](https://www.kaggle.com/ardabaranbaytar) · [Medium](https://medium.com/@ardabaran119)
 
 ## Featured Projects
 
