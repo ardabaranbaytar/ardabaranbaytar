@@ -1,85 +1,66 @@
 # Arda Baran Baytar 👋
 
-I am a **Statistics graduate** with an associate degree in **Computer Programming**. My primary interests are **data analytics, financial analysis, quantitative research, and data-driven software development**.
+I am a **Statistics graduate** with an associate degree in **Computer Programming**, working toward a career in **quantitative research**. I build research tools end to end — from statistical tests and backtests to APIs, dashboards and deployed services — and I care most about results that survive honest validation: point-in-time data, out-of-sample tests and realistic costs.
 
-I enjoy applying statistical methods and programming skills to practical problems. My current work focuses on financial data analysis, strategy backtesting, risk measurement, reporting, and the development of reusable analytical tools.
+🌐 [ardabaranbaytar.com](https://ardabaranbaytar.com) · 💼 [LinkedIn](https://www.linkedin.com/in/arda-baran-baytar-4b682a254/) · 📊 [Kaggle](https://www.kaggle.com/ardabaranbaytar) · ✍️ [Medium](https://medium.com/@ardabaran119)
 
-## Areas of Interest
+## Featured Projects
 
-* **Data Analytics and Statistical Modeling**
-  Data cleaning, exploratory data analysis, regression, classification, model evaluation, visualization, and reporting.
+### [quant-lab](https://github.com/ardabaranbaytar/quant-lab) · [live demo](https://quant.ardabaranbaytar.com)
 
-* **Quantitative Research**
-  Momentum and mean-reversion strategies, pairs trading, cointegration analysis, rolling Z-score models, and equity factor research.
+Portfolio-level backtesting, factor research and a statistical-arbitrage paper-trading bot in one codebase, from research notebook to deployed app.
 
-* **Backtesting and Risk Analysis**
-  Historical strategy testing, transaction-cost assumptions, performance measurement, drawdown analysis, and portfolio risk controls.
+* Weight-based backtest engine: long/short and multi-asset, trades at the close and earns the next day's return, costs on actual turnover
+* Point-in-time S&P 500 universe with delisting-aware accounting
+* Walk-forward validation, purged yearly walk-forward for ML, placebo tests and a locked hold-out
+* Pair-break monitor: seven causal detectors, each calibrated to a 1% daily false-alarm rate
+* Daily paper-trading bot (SQL persistence, FastAPI, React dashboard), scheduled on a Linux server
 
-* **Financial Data Engineering**
-  Financial time-series pipelines, PostgreSQL-based data storage, automated data collection, APIs, and reusable data workflows.
+**Survivorship bias, measured.** The same monthly momentum strategy (2010–2024):
 
-* **Applied Financial Analytics**
-  Financial performance analysis, corporate finance metrics, risk-adjusted returns, and data-supported decision-making.
+| Universe | CAGR | Sharpe |
+|---|---:|---:|
+| Today's S&P 500 constituents (typical tutorial setup) | 25.1% | 1.09 |
+| Point-in-time S&P 500 membership | 10.1% | 0.55 |
+| SPY buy & hold | 13.6% | 0.83 |
+
+The project also documents negative results: classic pairs trading and Avellaneda–Lee residual stat-arb do not survive costs out of sample on free daily large-cap data, and an ML entry filter showed no predictive power.
+
+`Python` `pandas` `statsmodels` `FastAPI` `MySQL` `React` `TypeScript` `GitHub Actions`
+
+### [StochOpt-MDP](https://github.com/ardabaranbaytar/StochOpt-MDP) · [live demo](https://stochopt.ardabaranbaytar.com)
+
+Optimal (s, S) inventory control formulated as a Markov Decision Process. The Bellman equation is solved by vectorized value iteration, and the resulting policy is benchmarked against base-stock and EOQ heuristics in a SimPy Monte Carlo simulation. Includes demand fitting (Poisson / Negative Binomial by AIC), a typed REST API, a React dashboard, and CSV/PDF reports.
+
+`Python` `NumPy` `SciPy` `SimPy` `FastAPI` `React` `Docker`
+
+### [alpha-quant](https://github.com/ardabaranbaytar/alpha-quant)
+
+Statistical-arbitrage engine: Engle–Granger cointegration screening, a causal Kalman-filter hedge ratio, Ornstein–Uhlenbeck spread modeling and Z-score signals, routed through a portfolio risk gate into a deterministic paper-trading engine with a full audit trail. Prefix-invariance tests guarantee that future data can never change a past signal.
+
+`Python` `statsmodels` `SQLAlchemy` `FastAPI` `MySQL`
+
+### [Banking ML: Cross-Platform Replication](https://github.com/ardabaranbaytar/banking-ml-cross-platform-replication) — *BSc thesis*
+
+Reproduced and extended a graduate study on banking customer data across **Python, R, KNIME and Orange**: loan-repayment prediction, repayment-duration and credit-amount estimation, and customer segmentation with classification, regression and clustering methods.
+
+### [JPMorgan Financial Performance Dashboard](https://github.com/ardabaranbaytar/jpmorgan-financial-performance-dashboard)
+
+Power BI dashboard analyzing JPMorgan's financial performance and risk indicators using FDIC data.
 
 ## Technical Skills
 
-* **Programming:** Python, SQL, R, Java
-* **Data and Statistics:** Pandas, NumPy, Statsmodels
-* **Databases and Backend:** PostgreSQL, SQLAlchemy, FastAPI
-* **Web and Reporting:** Jinja2, Tailwind CSS, Excel
-* **Development Tools:** Git, GitHub, Jupyter Notebook
+* **Programming:** Python, SQL, R, TypeScript, Java
+* **Statistics & Data:** pandas, NumPy, SciPy, statsmodels, scikit-learn, time-series analysis, Monte Carlo simulation
+* **Quantitative Finance:** backtesting, cointegration & pairs trading, factor research, walk-forward validation, risk metrics
+* **Backend & Databases:** FastAPI, SQLAlchemy, MySQL, PostgreSQL
+* **Frontend & Reporting:** React, Tailwind CSS, Power BI, Excel
+* **Infrastructure:** Git, GitHub Actions, Docker, Linux (Ubuntu), systemd, Caddy
 
-## Selected Projects
+## Earlier Work
 
-### Multi-Strategy Backtesting Framework
+My first research repositories — [multi-strategy backtesting](https://github.com/ardabaranbaytar/multi-strategy-backtesting-framework), [momentum](https://github.com/ardabaranbaytar/momentum-strategy-backtest), [pairs trading](https://github.com/ardabaranbaytar/pairs-trading-backtest) and [equity factor research](https://github.com/ardabaranbaytar/equity-factor-research) — are archived. Their ideas were rebuilt and extended in **quant-lab**, including a fix for a look-ahead bias in the original pairs backtest (+86.8% with a full-sample hedge ratio → −11.0% with a rolling one).
 
-[View Repository](https://github.com/ardabaranbaytar/multi-strategy-backtesting-framework)
+---
 
-A modular Python framework for testing and comparing systematic trading strategies using historical market data.
-
-The framework includes reusable strategy components, transaction-cost assumptions, performance evaluation, equity-curve visualization, and drawdown analysis.
-
-**Implemented strategies:**
-
-* Buy and Hold benchmark
-* 60-Day Momentum
-* Mean Reversion
-
-**Performance metrics:**
-
-* Total and annualized return
-* Annualized volatility
-* Sharpe ratio
-* Maximum drawdown
-* Final portfolio value
-
-### Equity Factor Research
-
-[View Repository](https://github.com/ardabaranbaytar/equity-factor-research)
-
-An exploratory research project examining the relationship between momentum and volatility factors and subsequent equity returns.
-
-The workflow covers data preparation, factor construction, exploratory analysis, visualization, and performance comparison.
-
-### Pairs Trading Backtest
-
-[View Repository](https://github.com/ardabaranbaytar/pairs-trading-backtest)
-
-A quantitative research project exploring a cointegration-based pairs trading strategy with historical market data.
-
-The project covers pair selection, cointegration testing, spread construction, mean-reversion signals, backtesting, and risk analysis.
-
-## Academic Project
-
-### Banking Customer Data Mining Replication Study
-
-For my undergraduate thesis, I reproduced and extended the methods used in a previous graduate study involving banking customer data.
-
-The study addressed four analytical problems:
-
-* Predicting loan repayment
-* Estimating repayment duration
-* Estimating potential credit amount
-* Customer segmentation
-
-The analyses were conducted using **Python, R, KNIME, and Orange**, with classification, regression, and clustering algorithms.
+*All trading projects are for research and education only. No real capital is deployed.*
