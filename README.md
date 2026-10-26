@@ -1,4 +1,4 @@
-# Arda Baran Baytar
+# Arda Baran Baytar 
 
 I am a **Statistics graduate** with an associate degree in **Computer Programming**, starting my career in **data science and analytics**. I like taking a problem all the way from raw data to a working product: cleaning and exploring data, building and validating statistical and machine-learning models, and delivering the results as reports, dashboards, APIs and deployed applications.
 
@@ -11,9 +11,6 @@ My projects span finance, operations research and banking analytics, and they sh
 ### [quant-lab](https://github.com/ardabaranbaytar/quant-lab) · [live demo](https://quant.ardabaranbaytar.com)
 
 Portfolio-level backtesting, factor research and a statistical-arbitrage paper-trading bot in one codebase, from research notebook to deployed app.
-
-* Weight-based backtest engine: long/short and multi-asset, trades at the close and earns the next day's return, costs on actual turnover
-* Point-in-time S&P 500 universe with delisting-aware accounting
 
 * Weight-based backtest engine: long/short and multi-asset, trades at the close and earns the next day's return, costs on actual turnover
 * Point-in-time S&P 500 universe with delisting-aware accounting
