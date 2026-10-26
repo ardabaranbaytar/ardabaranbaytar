@@ -1,16 +1,19 @@
-# Arda Baran Baytar 
+# Arda Baran Baytar
 
 I am a **Statistics graduate** with an associate degree in **Computer Programming**, starting my career in **data science and analytics**. I like taking a problem all the way from raw data to a working product: cleaning and exploring data, building and validating statistical and machine-learning models, and delivering the results as reports, dashboards, APIs and deployed applications.
 
 My projects span finance, operations research and banking analytics, and they share one habit: testing results honestly — out-of-sample validation, realistic assumptions, and clearly reporting what did *not* work.
 
-· [LinkedIn](https://www.linkedin.com/in/arda-baran-baytar-4b682a254/) · [Kaggle](https://www.kaggle.com/ardabaranbaytar) · [Medium](https://medium.com/@ardabaran119)
+[ardabaranbaytar.com](https://ardabaranbaytar.com) · [LinkedIn](https://www.linkedin.com/in/arda-baran-baytar-4b682a254/) · [Kaggle](https://www.kaggle.com/ardabaranbaytar) · [Medium](https://medium.com/@ardabaran119)
 
 ## Featured Projects
 
-### [quant-lab](https://github.com/ardabaranbaytar/quant-lab) 
+### [quant-lab](https://github.com/ardabaranbaytar/quant-lab) · [live demo](https://quant.ardabaranbaytar.com)
 
 Portfolio-level backtesting, factor research and a statistical-arbitrage paper-trading bot in one codebase, from research notebook to deployed app.
+
+* Weight-based backtest engine: long/short and multi-asset, trades at the close and earns the next day's return, costs on actual turnover
+* Point-in-time S&P 500 universe with delisting-aware accounting
 
 * Weight-based backtest engine: long/short and multi-asset, trades at the close and earns the next day's return, costs on actual turnover
 * Point-in-time S&P 500 universe with delisting-aware accounting
@@ -36,7 +39,7 @@ Reproduced and extended a graduate study on banking customer data across **Pytho
 
 `Python` `R` `KNIME` `Orange` `Machine Learning`
 
-### [StochOpt-MDP](https://github.com/ardabaranbaytar/StochOpt-MDP) 
+### [StochOpt-MDP](https://github.com/ardabaranbaytar/StochOpt-MDP) · [live demo](https://stochopt.ardabaranbaytar.com)
 
 Optimal (s, S) inventory control formulated as a Markov Decision Process. The Bellman equation is solved by vectorized value iteration, and the resulting policy is benchmarked against base-stock and EOQ heuristics in a SimPy Monte Carlo simulation. Includes demand fitting (Poisson / Negative Binomial by AIC), a typed REST API, a React dashboard, and CSV/PDF reports.
 
